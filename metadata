@@ -1,0 +1,10 @@
+ota-property-files=payload_metadata.bin:8342:115211,payload.bin:8342:1310067399,payload_properties.txt:1310075793:156,care_map.txt:737:247,compatibility.zip:1031:7270,metadata:63:632                  
+ota-required-cache=0
+ota-streaming-property-files=payload.bin:8342:1310067399,payload_properties.txt:1310075793:156,care_map.txt:737:247,compatibility.zip:1031:7270,metadata:63:632                    
+ota-type=AB
+post-build=google/crosshatch/crosshatch:9/PQ3A.190705.003/5600800:user/release-keys
+post-build-incremental=5600800
+post-sdk-level=28
+post-security-patch-level=2019-07-05
+post-timestamp=1558678513
+pre-device=crosshatch
